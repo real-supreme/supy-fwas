@@ -17,7 +17,7 @@ This is a wrapper library to easily retrieve FWA related information that is pub
 
 ## Usage
 
-SFWAS focuses on easy-to-use Python synchronous methods and objects. See [Examples](#examples)
+SFWAS focuses on easy-to-use Python synchronous methods and objects. See [Examples](#examples) after [Installation](#installation)
 
 ### Installation
 
