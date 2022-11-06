@@ -1,6 +1,6 @@
 # Supy-fwas [SFWAS]
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)|[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/real-supreme/supy-fwas)|[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/309963727913091073)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/real-supreme/supy-fwas) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/309963727913091073)
 
 This is a wrapper library to easily retrieve FWA related information that is publicly available and free-to-use. The package uses synchronous calls for developers to easily implement the features.
 
@@ -88,6 +88,7 @@ This package is not supported or developed by FWA. The package is used to access
 ## Contact
 
 - Discord - SUPREME#1000
+
 Other forms of contact will be added later :wink:
 <p style="text-align: right;">
 	<a href="#table-of-contents">Top</a>
