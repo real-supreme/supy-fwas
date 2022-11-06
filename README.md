@@ -8,6 +8,7 @@ This is a wrapper library to easily retrieve FWA related information that is pub
 
 1. [About the package](#supy-fwas-sfwas) 📦
 2. [Usage](#usage) 🧾
+	* [Installation](#installation) ➕
 	* [Requirements](#requirements) ⚙
 	* [Examples](#examples) 🖥
 3. [License](#license) &copy;
@@ -17,6 +18,18 @@ This is a wrapper library to easily retrieve FWA related information that is pub
 ## Usage
 
 SFWAS focuses on easy-to-use Python synchronous methods and objects. See [Examples](#examples)
+
+### Installation
+
+For Windows:
+```
+py -m pip install supy-fwas
+``` 
+
+For Unix/MacOS:
+```
+python3 -m pip install supy-fwas
+```
 
 ### Requirements
 
