@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supy-fwas"
+version = "0.0.9"
+authors = [
+  { name="Real-Supreme", email="botdevsupreme@gmail.com" },
+]
+description = "A wrapper library to easily retrieve FWA related information that is publicly available and free-to-use."
+readme = "README.md"
+requires-python = ">=3.7"
+install_requires = ['coc-py','requests']
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: Beta",
+    "Natural Language :: English",
+    "Topic :: Internet",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Utilities"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/real-supreme/supy-fwas"
+"Bug Tracker" = "https://github.com/real-supreme/supy-fwas/issues"
