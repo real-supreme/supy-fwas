@@ -91,7 +91,8 @@ This package is not supported or developed by FWA. The package is used to access
 
 ## Contact
 
-- Discord - SUPREME#1000
+- Discord - [SUPREME#1000](https://discord.com/channels/@me/309963727913091073)
+- Github - [real-supreme](https://github.com/real-supreme)
 
 Other forms of contact will be added later :wink:
 <p style="text-align: right;">
