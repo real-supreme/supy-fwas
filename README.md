@@ -1,21 +1,35 @@
 # Supy-fwas [SFWAS]
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)|[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/real-supreme/supy-fwas)|[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/309963727913091073)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/real-supreme/supy-fwas) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/309963727913091073)
 
 This is a wrapper library to easily retrieve FWA related information that is publicly available and free-to-use. The package uses synchronous calls for developers to easily implement the features.
 
 # Table of Contents
-1. [About the package](#supy-fwas-sfwas) :fa-book:
-2. [Usage](#usage) :fa-file-text:
-	* [Requirements](#requirements) :fa-plus-square:
-	* [Examples](#examples) :fa-file-code-o:
+
+1. [About the package](#supy-fwas-sfwas) 📦
+2. [Usage](#usage) 🧾
+	* [Installation](#installation) ➕
+	* [Requirements](#requirements) ⚙
+	* [Examples](#examples) 🖥
 3. [License](#license) &copy;
-4. [Disclaimer](#disclaimer) :fa-exclamation:
-5. [Contact](#contact) :fa-comments-o:
+4. [Disclaimer](#disclaimer) ❗
+5. [Contact](#contact) 📩
 
 ## Usage
 
-SFWAS focuses on easy-to-use Python synchronous methods and objects. See [Examples](#examples)
+SFWAS focuses on easy-to-use Python synchronous methods and objects. See [Examples](#examples) after [Installation](#installation)
+
+### Installation
+
+For Windows:
+```
+py -m pip install supy-fwas
+``` 
+
+For Unix/MacOS:
+```
+python3 -m pip install supy-fwas
+```
 
 ### Requirements
 
@@ -24,8 +38,11 @@ SFWAS focuses on easy-to-use Python synchronous methods and objects. See [Exampl
 	- requests
 
 ### Examples
----------
+
 This consists of only few out of all the available methods in the package.
+
+-------------
+
 ```py
 from sfwas import SFWAS
 
@@ -87,7 +104,9 @@ This package is not supported or developed by FWA. The package is used to access
 
 ## Contact
 
-- Discord - SUPREME#1000
+- Discord - [SUPREME#1000](https://discord.com/channels/@me/309963727913091073)
+- Github - [real-supreme](https://github.com/real-supreme)
+
 Other forms of contact will be added later :wink:
 <p style="text-align: right;">
 	<a href="#table-of-contents">Top</a>

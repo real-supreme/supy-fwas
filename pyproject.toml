@@ -4,19 +4,18 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "supy-fwas"
-version = "0.0.9"
+version = "0.9.0"
 authors = [
-  { name="Real-Supreme", email="botdevsupreme@gmail.com" },
+  { name="Real-Supreme" },
 ]
 description = "A wrapper library to easily retrieve FWA related information that is publicly available and free-to-use."
 readme = "README.md"
 requires-python = ">=3.7"
-install_requires = ['coc-py','requests']
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
-    "Development Status :: Beta",
+    "Development Status :: 4 - Beta",
     "Natural Language :: English",
     "Topic :: Internet",
     "Topic :: Software Development :: Libraries",
