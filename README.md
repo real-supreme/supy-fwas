@@ -5,7 +5,7 @@
 This is a wrapper library to easily retrieve FWA related information that is publicly available and free-to-use. The package uses synchronous calls for developers to easily implement the features.
 
 # Table of Contents
------------
+
 1. [About the package](#supy-fwas-sfwas) 📦
 2. [Usage](#usage) 🧾
 	* [Requirements](#requirements) ⚙
@@ -25,8 +25,11 @@ SFWAS focuses on easy-to-use Python synchronous methods and objects. See [Exampl
 	- requests
 
 ### Examples
----------
+
 This consists of only few out of all the available methods in the package.
+
+-------------
+
 ```py
 from sfwas import SFWAS
 
