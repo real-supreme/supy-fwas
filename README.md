@@ -7,13 +7,13 @@ This is a wrapper library to easily retrieve FWA related information that is pub
 
 # Table of Contents
 -----------
-1. [About the package](#supy-fwas-sfwas) :fa-book:
-2. [Usage](#usage) :fa-file-text:
-	* [Requirements](#requirements) :fa-plus-square:
-	* [Examples](#examples) :fa-file-code-o:
+1. [About the package](#supy-fwas-sfwas) 📦
+2. [Usage](#usage) 🧾
+	* [Requirements](#requirements) ⚙
+	* [Examples](#examples) 🖥
 3. [License](#license) &copy;
-4. [Disclaimer](#disclaimer) :fa-exclamation:
-5. [Contact](#contact) :fa-comments-o:
+4. [Disclaimer](#disclaimer) ❗
+5. [Contact](#contact) 📩
 
 ## Usage
 
