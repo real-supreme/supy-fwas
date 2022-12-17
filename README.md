@@ -109,7 +109,6 @@ This package is not supported or developed by FWA. The package is used to access
 
 Other forms of contact will be added later :wink:
 
-Live Server: https://supy.pythonanywhere.com/
 <p style="text-align: right;">
 	<a href="#table-of-contents">Top</a>
 </p>
